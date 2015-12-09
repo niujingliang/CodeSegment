@@ -1,0 +1,8 @@
+D:\C#\CodeSegment\Test\bin\Debug\Test.exe.config
+D:\C#\CodeSegment\Test\bin\Debug\Test.exe
+D:\C#\CodeSegment\Test\bin\Debug\Test.pdb
+D:\C#\CodeSegment\Test\bin\Debug\CodeSegment.dll
+D:\C#\CodeSegment\Test\bin\Debug\CodeSegment.pdb
+D:\C#\CodeSegment\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\C#\CodeSegment\Test\obj\Debug\Test.exe
+D:\C#\CodeSegment\Test\obj\Debug\Test.pdb
